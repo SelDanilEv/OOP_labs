@@ -1,1 +1,1 @@
-Valeria Smelova, 4th group, software developing
+Valeria Smelova, 4 group, software developing
