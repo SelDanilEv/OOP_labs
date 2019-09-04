@@ -1,3 +1,8 @@
 try_status file
+<<<<<<< HEAD
 changed by test
 new change (2)
+=======
+changed by master
+new change (1)
+>>>>>>> master
