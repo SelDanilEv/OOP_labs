@@ -1,6 +1,2 @@
 try_status file
-<<<<<<< HEAD
 changed by master
-=======
-changed by test
->>>>>>> test
