@@ -1,6 +1,2 @@
-try status:changed
-<<<<<<< HEAD
-checking new branch "test"
-=======
-working with the master branch
->>>>>>> master
+try_status file
+changed by test
