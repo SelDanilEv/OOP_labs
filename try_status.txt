@@ -6,3 +6,6 @@ new change (2)
 changed by master
 new change (1)
 >>>>>>> master
+
+
+У тебя нет ветки test
